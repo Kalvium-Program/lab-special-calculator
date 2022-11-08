@@ -1,4 +1,4 @@
-![Logo-nav copy.png](attachment:435e1be1-2786-425b-b13f-8e808ce2733b.png)
+![Logo-nav](https://user-images.githubusercontent.com/109285740/200658402-cb59fc91-8677-4d38-9302-b3c804e908c0.png)
 
 # Kalvium Lab | Special Calculator
 
@@ -24,15 +24,9 @@ git push origin master
 And finally, create a pull request so your Kalvium Mentor (PM) can review your work.
 ```
 
-## Starter code
-
-The `src/app.js` contains an array of 100 chocolates. We are talking about the 100 _strings_ that specifies the color of each chocolate. Available chocolates are of the colors `green, red, purple, blue, crimson, silver, pink`.
-
-Every function will take the `chocolates` array as it's first input by default.
-
 ### Tests
 
-As usual, open the `index.html` (outside src folder) file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
+Open the `index.html` (outside src folder) file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
 
 ### Progression 1: Special Addition!
 
