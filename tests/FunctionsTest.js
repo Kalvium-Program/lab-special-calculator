@@ -1,4 +1,4 @@
-describe('Create an addition operation for the special calculator', function () {
+describe('Create an addition operation for the special calculator - ', function () {
   it('Defines specialAddition', function () {
     expect(typeof specialAddition).toBe('function');
   });
@@ -36,7 +36,7 @@ describe('Create an addition operation for the special calculator', function () 
   });
 });
 
-describe('Create a division operation for the special calculator', function () {
+describe('Create a division operation for the special calculator - ', function () {
   it('Defines simpleDivision', function () {
     expect(typeof simpleDivision).toBe('function');
   });
@@ -82,7 +82,7 @@ describe('Create a division operation for the special calculator', function () {
   });
 });
 
-describe('Create a division operation for the special calculator', function () {
+describe('Create a division operation for the special calculator - ', function () {
   it('Defines specialCalculator', function () {
     expect(typeof specialCalculator).toBe('function');
   });
