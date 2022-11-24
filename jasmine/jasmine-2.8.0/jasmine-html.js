@@ -215,9 +215,7 @@ jasmineRequire.HtmlReporter = function (j$) {
           ''
         )
       );
-      labName.appendChild(
-        createDom('span', {}, 'Lab - 1 | Special Calculator')
-      );
+      labName.appendChild(createDom('span', {}, 'Special Calculator'));
       alert.appendChild(
         createDom(
           'span',

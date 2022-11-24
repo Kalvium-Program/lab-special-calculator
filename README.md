@@ -1,4 +1,4 @@
-![Logo-nav](https://user-images.githubusercontent.com/109285740/200658402-cb59fc91-8677-4d38-9302-b3c804e908c0.png)
+![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 # Kalvium Lab | Special Calculator
 
@@ -6,9 +6,11 @@ Terence Tao loves Mathematics. So he decided to create one special calculator, w
 different to normal calculators.
 Tao is now on a quest to create this special calculator. He needs **YOU** to help him code functionalities in the back-end though. Go to the `src/app.js` file and complete all the unfinished code to satiate her sweet tooth.
 
-### Tests
+### How to approach a lab:
 
-Open the `index.html` (outside src folder) file on your browser and start coding to pass the test. Remember to focus on one test at a time and read carefully the instructions to understand what you have to do.
+Before starting have a look through the link below - to get an idea as how to approach the lab.
+
+![](https://docs.google.com/document/d/1SZ2Pryj6kAJj63wdB2_xVJgQHq6GddeZQ3nqDXYeaBA/edit?usp=sharing)
 
 ### Progression 1: Special Addition!
 
