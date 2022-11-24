@@ -210,7 +210,7 @@ jasmineRequire.HtmlReporter = function (j$) {
         createDom(
           'img',
           {
-            src: 'jasmine/jasmine-2.8.0/Logo-nav.png', // changed
+            src: 'https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png', // changed
           },
           ''
         )
